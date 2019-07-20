@@ -51,7 +51,7 @@ The purpose of this project is to get some insights from the EPL by analyzing st
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-3. Data processing/transformation scripts are being kept [here](https://github.com/stilabdo/English-Premier-League-Insights/blob/master/English%20Premier%20League%20Insights.ipynb)
+2. Raw Data is being kept [here](https://github.com/stilabdo/Data-Science-Projects/blob/master/English-Premier-League-Insights/pl_tables.csv) within this repo.
+3. Data processing/transformation scripts are being kept [here](https://github.com/stilabdo/Data-Science-Projects/blob/master/English-Premier-League-Insights/English%20Premier%20League%20Insights.ipynb)
 
 
