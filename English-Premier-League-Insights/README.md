@@ -26,7 +26,7 @@ The purpose of this project is to get some insights from the EPL by analyzing st
 
  The data of this project scraped from an online soccer website that contains Premier League results archives.  which is can be found in this [Link](https://www.worldfootball.net/schedule/eng-premier-league-2018-2019-spieltag/38/).
  
- All EPL seasons included in this project since the deput of this version of the EPL(season 1992/1993 to 2018/2019).
+ All EPL seasons included in this project since the debut of this version of the EPL(season 1992/1993 to 2018/2019).
  
  Two tables considered, game-week 13 & game-week 38 (end of the season) for each season.
  
@@ -36,11 +36,12 @@ The purpose of this project is to get some insights from the EPL by analyzing st
  * matches_played &nbsp; : &nbsp; Number of matches played.
  * wins &nbsp; : &nbsp; Number of wins after the number of matches played.
  * drawns &nbsp; : &nbsp; No of drawns after the number of matches played.
- * losses &nbsp; : &nbsp; No oflosses after the number of matches played.
+ * losses &nbsp; : &nbsp; No of losses after the number of matches played.
  * goals_for &nbsp; : &nbsp; Goals scored for.
  * goals_against &nbsp; : &nbsp; Goals scored against.
- * goals_diff &nbsp; : &nbsp; Difference b/w F and A
+ * goals_diff &nbsp; : &nbsp; Difference b/w goals_for and goals_against.
  * points &nbsp; : &nbsp; Points accumulated after the number of matches played.
+ * season &nbsp; : &nbsp; Current season.
 
 ## Needs of this project
 
