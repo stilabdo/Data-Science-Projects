@@ -19,7 +19,7 @@ This project is a part of my data science portfolio of projects.
 ## Project Description
 The Chinook data model represents a digital media store, including tables for artists, albums, media tracks, invoices and customers. The aim of this project to answer several business related questions presented in the project.
 
-![schema](Answering-Business-Questions-using-SQL/chinook-schema.jpg)
+![schema](https://github.com/stilabdo/Data-Science-Projects/blob/master/Answering-Business-Questions-using-SQL/chinook-schema.jpg)
 
  
 #### Tables:
